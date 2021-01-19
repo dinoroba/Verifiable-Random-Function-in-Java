@@ -1,4 +1,3 @@
-
 package vrf;
 
 import java.math.BigInteger;
