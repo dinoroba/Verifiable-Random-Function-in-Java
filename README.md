@@ -9,5 +9,7 @@ It is composed of 5 files:
 * Rsa_signature_primitives with a implementation of RSASP1 and RSAVP1 described in (https://tools.ietf.org/html/rfc8017#section-5);
 * Rsa_vrf with the basic methods for a VRF implementation.
 
+The code DOES NOT implement the key distribution nor the key generation to be used.
+
 # Disclaimer
 The code implemented in this repository might contain errors and is not for commercial use;
